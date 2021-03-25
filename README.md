@@ -45,16 +45,16 @@
 
 > Front-end
 
-    - 김도연 (핑크) : Front-end 개발 팀장
-    - 김소영 (옐로) : Front-end 개발, UX/UI Design
+    - 김도연 (핑크) : Front-end 개발
+    - 김소영 (옐로) : Front-end 개발
 
 
 
 >  Back-end
 
-    - 장한별 (레드, 팀장) : DBA, Server 배포, Back-end 개발
+    - 장한별 (레드) : DBA, Server 배포, Back-end 개발
     - 이진용 (블랙) : Server 배포, Back-end 개발
-    - 임지민 (블루) : Back-end 개발 팀장
+    - 임지민 (블루) : Back-end 개발
 
 
 
